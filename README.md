@@ -6,3 +6,5 @@ Sales Performance Analysis: Understanding how well bikes are selling over time, 
 
 **Project Learning:**
 Created interactive dashboard, pivot table, working sheet
+
+![Screenshot_BikeSalesDashboard](https://github.com/user-attachments/assets/7dc37a7f-8436-4444-948d-102431c84069)
